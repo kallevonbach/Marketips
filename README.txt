@@ -1,5 +1,12 @@
-#Om projektet
 
+OM PROJEKTET
+------------
+Semestercase fra 1. semester på PBAen i webudvikling. 
+Projektet blev udarbejdet sammen med tre andre studerende.
+Jeg arbejdede hovedsagligt med de drupal relateret ting som views, taxonomy, theming osv.
+Sitet kan ses her: 
+
+http://marketipsnyestaxardnuqw6.devcloud.acquia-sites.com/
 
 CONTENTS OF THIS FILE
 ---------------------
